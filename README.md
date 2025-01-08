@@ -18,3 +18,5 @@ https://turkiye-siber-guvenlik-standartl.gitbook.io/t.c-sermaye-piyasasi-kurulu-
 https://turkiye-siber-guvenlik-standartl.gitbook.io/t.c-tse-tuerk-standartlari-enstituesue/
 
 https://turkiye-siber-guvenlik-standartl.gitbook.io/t.c.-enerji-piyasasi-duezenleme-kurumu-epdk/
+
+https://turkiye-siber-guvenlik-standartl.gitbook.io/siber-guvenlik-baskanligi
